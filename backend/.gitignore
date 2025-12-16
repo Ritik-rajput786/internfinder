@@ -1,0 +1,8 @@
+# Ignore uploaded files
+uploads/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
